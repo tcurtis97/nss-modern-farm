@@ -1,5 +1,5 @@
 export const createCorn = () => {
-    const crop = {
+    const crop = [{
         type: "Corn",
         height: 180,
         output: 6
@@ -9,6 +9,6 @@ export const createCorn = () => {
         height: 180,
         output: 6
     }
-    
+]
     return crop
 }

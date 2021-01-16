@@ -1,4 +1,4 @@
-const { transformSync } = require("@babel/core")
+
 
 export const createAsparagus = () => {
     const crop = {
